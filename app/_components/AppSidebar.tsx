@@ -95,7 +95,7 @@ export function AppSidebar() {
                         <Image src={'/logo.png?v=2'} alt='logo' width={32} height={32} />
                         <h1 className="text-xl font-bold text-sidebar-foreground">Mindloop.ai</h1>
                     </div>
-                    <p className='text-sm text-muted-foreground'>AI Career Mentor</p>
+                    <p className='text-sm text-muted-foreground'>Self-Assessment Platform</p>
                 </div>
             </SidebarHeader>
             <SidebarContent className="p-4">

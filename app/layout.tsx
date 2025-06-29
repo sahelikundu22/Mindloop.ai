@@ -14,7 +14,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Mindloop.ai - AI Career Mentor",
+  title: "Mindloop.ai - Self-Assessment Platform",
   description: "Your personalized AI career coach for professional development, interview prep, and career guidance.",
   keywords: "AI career coach, career guidance, interview preparation, professional development, resume analyzer",
   authors: [{ name: "Mindloop.ai Team" }],

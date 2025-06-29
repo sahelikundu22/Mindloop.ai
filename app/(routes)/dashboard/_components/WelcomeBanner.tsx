@@ -9,7 +9,7 @@ const WelcomeBanner = () => {
         <div className="space-y-4">
           <div className="flex items-center gap-2">
             <Sparkles className="h-6 w-6" />
-            <h2 className="text-2xl font-bold">AI Career Mentor</h2>
+            <h2 className="text-2xl font-bold">Self-Assessment Platform</h2>
           </div>
           <p className="text-blue-100 dark:text-blue-200 max-w-md">
             Get personalized career guidance, interview preparation, and professional development insights powered by AI.

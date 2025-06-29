@@ -1,4 +1,4 @@
-# Mindloop.ai - AI Career Mentor Setup Guide
+# Mindloop.ai - Self-Assessment Platform Setup Guide
 
 ## Prerequisites
 

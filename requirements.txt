@@ -1,4 +1,4 @@
-# Mindloop.ai - AI Career Mentor Dependencies
+# Mindloop.ai - Self-Assessment Platform Dependencies
 # This file lists all required npm packages for the project
 
 # Core Framework
